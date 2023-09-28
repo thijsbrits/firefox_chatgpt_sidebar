@@ -6,6 +6,7 @@
   "sidebar_action": {
     "default_panel": "sidebar.html"
   },
+  "browser_action": {},
   "background": {
     "scripts": ["background.js"],
     "persistent": false
