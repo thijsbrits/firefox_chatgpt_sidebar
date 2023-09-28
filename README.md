@@ -7,6 +7,7 @@ This Firefox extension adds a sidebar that displays an embedded website. You can
 
 - Sidebar that displays a specific website
 - Keyboard shortcut to open/close the sidebar (Default: Ctrl+Shift+Y | Command+Shift+Y)
+- Or, open/close the sidebar by clicking on the add-on icon
 
 ## Installation 🛠️
 
